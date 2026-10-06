@@ -1,5 +1,8 @@
 {
   "version": 2,
+  "env": {
+    "SOURCE_ORDER": "bilibili,dandan,bahamut,animeko,douban,360,renren,hanjutv"
+  },
   "builds": [
     {
       "src": "danmu_api/worker.js",
